@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2015\Projects\TestingAssignment\TestingAssignment\bin\Debug\TestingAssignment.dll
+c:\users\david\documents\visual studio 2015\Projects\TestingAssignment\TestingAssignment\bin\Debug\TestingAssignment.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.dll
+c:\users\david\documents\visual studio 2015\Projects\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.pdb
