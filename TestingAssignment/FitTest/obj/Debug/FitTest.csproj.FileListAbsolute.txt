@@ -1,0 +1,9 @@
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\FitTest.dll
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\FitTest.pdb
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\fit.dll
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\fitSharp.dll
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\TestingAssignment.dll
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\TestingAssignment.pdb
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\obj\Debug\FitTest.csprojResolveAssemblyReference.cache
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\obj\Debug\FitTest.dll
+C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\obj\Debug\FitTest.pdb
