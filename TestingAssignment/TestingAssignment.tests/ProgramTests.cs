@@ -10,7 +10,7 @@ namespace TestingAssignment.tests
     [TestFixture]
     public class ProgramTests
     {
-        public CalculatePremium P = new CalculatePremium();
+        public PremiumCalculator P = new PremiumCalculator();
 
         [Test]
         public void Test1()

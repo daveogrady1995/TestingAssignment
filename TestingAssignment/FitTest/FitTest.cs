@@ -9,7 +9,7 @@ namespace FitTest
 {
     public class FitTest : fit.ColumnFixture
     {
-        public CalculatePremium cp = new CalculatePremium();
+        public PremiumCalculator cp = new PremiumCalculator();
 
         public string gender;
         public int age;
