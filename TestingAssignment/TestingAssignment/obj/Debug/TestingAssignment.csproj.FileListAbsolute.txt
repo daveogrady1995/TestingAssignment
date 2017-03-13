@@ -10,3 +10,10 @@ C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignmen
 C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.csprojResolveAssemblyReference.cache
 C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.dll
 C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\bin\Debug\TestingAssignment.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\bin\Debug\TestingAssignment.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\bin\Debug\fit.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\bin\Debug\fitSharp.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment\obj\Debug\TestingAssignment.pdb

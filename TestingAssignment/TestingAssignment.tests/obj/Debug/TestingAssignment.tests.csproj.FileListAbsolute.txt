@@ -16,3 +16,14 @@ D:\Documents\Computing - Software Development\Third Year\Semester Two\SoftwareQu
 D:\Documents\Computing - Software Development\Third Year\Semester Two\SoftwareQuality\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.csprojResolveAssemblyReference.cache
 D:\Documents\Computing - Software Development\Third Year\Semester Two\SoftwareQuality\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.dll
 D:\Documents\Computing - Software Development\Third Year\Semester Two\SoftwareQuality\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\TestingAssignment.tests.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\TestingAssignment.tests.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\fit.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\fitSharp.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\nunit.framework.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\TestingAssignment.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\TestingAssignment.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\bin\Debug\nunit.framework.xml
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.dll
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\TestingAssignment.tests\obj\Debug\TestingAssignment.tests.pdb
