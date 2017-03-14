@@ -9,3 +9,4 @@ C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\SeleniumTests\bi
 C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
 C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\SeleniumTests\obj\Debug\SeleniumTests.dll
 C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Users\David\Source\Repos\TestingAssignment\TestingAssignment\SeleniumTests\bin\Debug\geckodriver.exe
