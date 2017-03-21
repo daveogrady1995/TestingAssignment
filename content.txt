@@ -1,0 +1,13 @@
+!define COMMAND_PATTERN {%m -r fitnesse.fitserver.FitServer,dotnet2\fit.dll %p}
+!define TEST_RUNNER {dotnet2\Runner.exe}
+!path C:\Users\darra\Source\Repos\TestingAssignment\TestingAssignment\FitTest\bin\Debug\FitTest.dll
+!|FitTest.FitTest|
+|age|gender|CalculatePremium?|
+|24|female|5|
+|54|female|1.75|
+|12|female|0|
+|30|AlphaMale|0|
+|28|male|6|
+|39|male|5|
+|17|male|0|
+|55|male|2.5|
